@@ -1,0 +1,17 @@
+.homepage{
+    background-image: url("./images/crispy-chickpeas-with-yogurt.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+.header{
+    
+    font-family: sans-serif;
+    font-size: large;
+    font-stretch: extra-expanded;
+    text-shadow: #ffffff;
+    text-transform: uppercase;
+    
+}
+.logo{
+    
+}
